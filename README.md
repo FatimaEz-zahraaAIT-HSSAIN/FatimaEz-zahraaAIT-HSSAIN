@@ -13,7 +13,7 @@ I'm passionate about software development and project management, seeking to app
 
 ### 💻 Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bash,bootstrap,c,cpp,css,eclipse,express,firebase,git,github,html,java,js,jquery,kotlin,laravel,latex,linux,mongodb,mysql,nextjs,nodejs,npm,php,react,tailwind&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bash,bootstrap,c,cpp,css,eclipse,express,firebase,git,github,html,java,js,jquery,kotlin,laravel,latex,linux,mongodb,mysql,nextjs,nodejs,npm,php,react,tailwind&perline=15)](https://skillicons.dev)
 
 
 ### 🌐 Connect with me
