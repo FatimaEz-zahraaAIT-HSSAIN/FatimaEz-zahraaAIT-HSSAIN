@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="https://linktr.ee/aithssain.fatimaezzahraa"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd252dnRkZHQ3cDUxMXNzZGgxNW9zZnBsOWtiOTBqdDg0Y2p6M21qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4MP3GmIdF0vmeeHfm0/giphy.gif"></a>
-  <h3>WELCOME TO MY GITHUB PROFILE!</h3>
 </p>
-
+<h3>WELCOME TO MY GITHUB PROFILE!</h3>
 
 ### 👋🏻 About me
 
