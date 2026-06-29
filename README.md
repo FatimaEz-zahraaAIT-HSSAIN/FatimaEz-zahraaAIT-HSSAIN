@@ -5,18 +5,18 @@
 </p>
 <h3>WELCOME TO MY GITHUB PROFILE!</h3>
 
-### 👋🏻 About me
+### About me
 
 <p>
 I'm passionate about software development and project management, seeking to apply my skills and knowledge in an innovative environment.
 </p>
 
-### 💻 Skills and Tools
+### Skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bash,bootstrap,c,cpp,css,eclipse,express,firebase,git,github,html,java,js,jquery,kotlin,laravel,latex,linux,mongodb,mysql,nextjs,nodejs,npm,php,react,tailwind&perline=15)](https://skillicons.dev)
 
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ait-hssain-fatima-ez-zahraa-8b7831273/">
