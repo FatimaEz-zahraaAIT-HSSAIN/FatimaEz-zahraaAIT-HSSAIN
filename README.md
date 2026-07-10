@@ -38,14 +38,24 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect with me
+
+
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/ait-hssain-fatima-ez-zahraa-8b7831273/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+
+    <img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://web.whatsapp.com/send?phone=212777706902">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
+
+      <img src="https://th.bing.com/th/id/R.3db05f40f9bfbfa4818e5f841359ac18?rik=i9uCGc2yoCWfNA&riu=http%3a%2f%2fspeedyclearance.uk%2fwp-content%2fuploads%2f2018%2f04%2fwhatsapp-icon.png&ehk=%2fGSNSk4y8vLd2qCiosXRI0WSYOth7SLdJewCXSxpcmY%3d&risl=&pid=ImgRaw&r=0" width="35"/>
+
   </a>
-</p>
+
+</p> 
+
+
