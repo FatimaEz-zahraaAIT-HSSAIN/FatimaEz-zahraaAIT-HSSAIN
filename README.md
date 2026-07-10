@@ -43,19 +43,13 @@
 
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/ait-hssain-fatima-ez-zahraa-8b7831273/">
-
     <img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
-
   </a>
 
   <a href="https://web.whatsapp.com/send?phone=212777706902">
-
       <img src="https://th.bing.com/th/id/R.3db05f40f9bfbfa4818e5f841359ac18?rik=i9uCGc2yoCWfNA&riu=http%3a%2f%2fspeedyclearance.uk%2fwp-content%2fuploads%2f2018%2f04%2fwhatsapp-icon.png&ehk=%2fGSNSk4y8vLd2qCiosXRI0WSYOth7SLdJewCXSxpcmY%3d&risl=&pid=ImgRaw&r=0" width="35"/>
-
   </a>
-
 </p> 
 
 
