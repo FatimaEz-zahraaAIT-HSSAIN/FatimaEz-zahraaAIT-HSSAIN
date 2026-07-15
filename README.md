@@ -32,9 +32,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaEz-zahraaAIT-HSSAIN&theme=radium" alt="Fatima's GitHub Streak" width="48%">
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FatimaEz-zahraaAIT-HSSAIN&theme=github-light&hide_border=true&background=45%2CEBEBEB%2CD3E9EB" alt="GitHub Streak" /></a>
 
 ---
 
