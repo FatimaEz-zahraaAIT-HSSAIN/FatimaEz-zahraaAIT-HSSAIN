@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://linktr.ee/aithssain.fatimaezzahraa">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd252dnRkZHQ3cDUxMXNzZGgxNW9zZnBsOWtiOTBqdDg0Y2p6M21qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4MP3GmIdF0vmeeHfm0/giphy.gif" alt="Welcome Animation">
+
+https://github.com/user-attachments/assets/bc3b22a5-2754-4f6a-8991-67215171dd35
   </a>
 </p>
 
